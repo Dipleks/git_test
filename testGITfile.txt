@@ -1,2 +1,3 @@
 проверка git
 ПРОВЕРКА GIT после commit
+test commit three
